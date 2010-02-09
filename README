@@ -1,0 +1,9 @@
+
+This script is mainly used to redirect users to a RTSP server. Most browsers
+does not understand the rtsp://, and by using this script you can get the
+browser to download this .mov-file using http://. The mediaplayer will read the
+reference-file, and use the rtsp://-URL supplied in it.
+
+See the bottom of 'makestream.php' for example usage.
+
+An example .htaccess-file for Apache is also supplied
