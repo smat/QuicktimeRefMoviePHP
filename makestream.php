@@ -2,6 +2,8 @@
 
 class ReferenceMovie
 {
+	# Technical reference: http://developer.apple.com/mac/library/documentation/QuickTime/QTFF/QTFFChap2/
+
 	# PHP5
 	#private $movies = "";
 	# PHP4
